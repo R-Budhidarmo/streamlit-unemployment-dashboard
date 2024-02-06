@@ -46,4 +46,4 @@ On the browser, the web app looks like the screenshots below:
 
 ## Acknowledgement
 
-This dashboard was inspired by a repo by [dataprofessor](https://github.com/dataprofessor/population-dashboard/tree/master).
+This dashboard was inspired by a [repo](https://github.com/dataprofessor/population-dashboard/tree/master) by @dataprofessor.
